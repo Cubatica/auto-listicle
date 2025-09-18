@@ -1,0 +1,8 @@
+# Cloudflare Pages redirects
+# Add any custom redirects here if needed
+
+# Example: Redirect old paths to new ones
+# /old-page /new-page 301
+
+# Handle 404s - redirect to homepage
+/* /index.html 404
